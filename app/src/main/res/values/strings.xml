@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment02</string>
+    <string name="meatballs_text">Meatballs</string>
+    <string name="Chicken_text">Chuicken</string>
+    <string name="Fish_text">Fish</string>
+    <string name="Steak_text">Steak</string>
+    <string name="Carrots_text">Carrots</string>
+</resources>
